@@ -13,8 +13,7 @@ Map your local volume to this, for example:
 ```bash
 -v /home/bouiboui/website/:/data/web/
 ```
-
-===
+---
 
 I created a [server.sh](https://github.com/bouiboui/php7-nginx/blob/master/server.sh) script for convenience, here are the main actions you may want to use:
 
